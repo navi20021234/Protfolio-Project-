@@ -8,7 +8,7 @@ import About from './components/About'
 import Service from './components/Service'
 import Projects from './components/Projects'
 import Contact from './components/Contact'
-import Footer from './components/Footer'
+import Skills from './components/Skills'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -19,10 +19,11 @@ function App() {
         <Navbar />
         <Hero />
         <About />
+        <Skills />
         <Service />
         <Projects />
        <Contact />
-       <Footer />
+     
       </div>
       
   )

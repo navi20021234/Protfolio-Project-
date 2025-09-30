@@ -1,31 +1,40 @@
 import React from 'react';
-import employeeMSImage from "../assets/employee-ms.png";
 import bookMSImage from "../assets/book-ms.jpg";
-import blogMSImage from "../assets/admin-dashboard.jpg";
+import citybinMSImage from "../assets/citybin-ms.jpg";
+import farmMSImage from "../assets/farm-ms.png";
+import deliverySystemImage from "../assets/deliverysystem.png";
 
 const projects = [
     {
         id: 1,
-        name: "Inventory MS",
-        technologies: "MERN Stack",
-        image: employeeMSImage,
-       github: "https://github.com/Youakhan1",
+        name: "Library Management System (Individual Project)",
+        technologies: "Java",
+        image: bookMSImage,
+       github: "https://github.com/navi20021234/LibraryMS",
     },
 
     {
         id: 2,
-        name: "Blog App",
+        name: "CityBin Smart Waste Collection System (Group Project)",
         technologies: "MERN Stack",
-        image: blogMSImage,
-       github: "https://github.com/Youakhan1",
+        image: citybinMSImage,
+       github: "https://github.com/UpenaNuhansi/CityBin-Capstone-Group10",
     },
 
     {
         id: 3,
-        name: "Book MS",
+        name: "Farm Management System (Group Project)",
+        technologies: "Figma, Laravel, PHP, MongoDB",
+        image: farmMSImage,
+       github: "https://github.com/sajithcode/farm-management-system-susl",
+    },
+
+    {
+        id: 4,
+        name: "Beauty Cosmetics Delivery System (Individual Project)",
         technologies: "MERN Stack",
-        image: bookMSImage,
-       github: "https://github.com/Youakhan1",
+        image: deliverySystemImage,
+       github: "https://github.com/navi20021234/BeautyProductDeliveryWeb",
     },
 
 ];
