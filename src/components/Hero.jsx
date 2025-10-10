@@ -16,10 +16,10 @@ const Hero = () => {
             <h1 className='text-4xl font-bold'>
                 I'm {" "}
                 <span className='text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>Navini Rubasinghe</span>
-                , Front End Developer & QA Enthusiast & Web Developer
+                ,  QA Enthusiast & Aspiring Front End Developer
             </h1>
             <p className='mt-4 text-lg text-gray-300 '>
-                QA enthusiast & frontend developer passionate about building reliable, user-focused digital experiences
+                QA enthusiast & aspiring frontend developer passionate about building reliable, user-focused digital experiences
             </p>
             <div className='mt-8 space-x-4'>
                

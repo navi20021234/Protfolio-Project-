@@ -39,17 +39,17 @@ const Skills = () => {
             </div>
 
             <div className='flex items-center'>
-              <label htmlFor="csharp" className='w-3/12 text-sm'>C#</label>
+              <label htmlFor="csharp" className='w-3/12 text-sm'>HTML</label>
               <div className='grow bg-gray-800 rounded-full h-2.5'>
-                <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-2/12'>
+                <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-5/12'>
                 </div>
               </div>
             </div>
 
             <div className='flex items-center'>
-              <label htmlFor="php" className='w-3/12 text-sm'>PHP</label>
+              <label htmlFor="php" className='w-3/12 text-sm'>CSS</label>
               <div className='grow bg-gray-800 rounded-full h-2.5'>
-                <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-1/12'>
+                <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-4/12'>
                 </div>
               </div>
             </div>
@@ -60,7 +60,7 @@ const Skills = () => {
             <h3 className='text-xl font-semibold text-center mb-4 text-blue-400'>Frameworks & Databases</h3>
             
             <div className='flex items-center'>
-              <label htmlFor="htmlcss" className='w-3/12 text-sm'>React</label>
+              <label htmlFor="htmlcss" className='w-3/12 text-sm'>JUnit</label>
               <div className='grow bg-gray-800 rounded-full h-2.5'>
                 <div className='bg-gradient-to-r from-pink-400 to-purple-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-9/12'>
                 </div>
@@ -68,7 +68,7 @@ const Skills = () => {
             </div>
 
             <div className='flex items-center'>
-              <label htmlFor="react" className='w-3/12 text-sm'>Laravel</label>
+              <label htmlFor="react" className='w-3/12 text-sm'>Postman</label>
               <div className='grow bg-gray-800 rounded-full h-2.5'>
                 <div className='bg-gradient-to-r from-pink-400 to-purple-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-1/12'>
                 </div>
@@ -76,7 +76,7 @@ const Skills = () => {
             </div>
 
             <div className='flex items-center'>
-              <label htmlFor="tailwind" className='w-3/12 text-sm'>Flutter</label>
+              <label htmlFor="tailwind" className='w-3/12 text-sm'>Selenium</label>
               <div className='grow bg-gray-800 rounded-full h-2.5'>
                 <div className='bg-gradient-to-r from-pink-400 to-purple-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-5/12'>
                 </div>
@@ -121,7 +121,7 @@ const Skills = () => {
             </div>
 
             <div className='flex items-center'>
-              <label htmlFor="postman" className='w-3/12 text-sm'>Bootstrap</label>
+              <label htmlFor="postman" className='w-3/12 text-sm'>React</label>
               <div className='grow bg-gray-800 rounded-full h-2.5'>
                 <div className='bg-gradient-to-r from-yellow-400 to-orange-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-1/12'>
                 </div>
@@ -129,7 +129,7 @@ const Skills = () => {
             </div>
 
             <div className='flex items-center'>
-              <label htmlFor="vscode" className='w-3/12 text-sm'>VS Code</label>
+              <label htmlFor="vscode" className='w-3/12 text-sm'>MS Excel</label>
               <div className='grow bg-gray-800 rounded-full h-2.5'>
                 <div className='bg-gradient-to-r from-yellow-400 to-orange-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-11/12'>
                 </div>
@@ -157,7 +157,7 @@ const Skills = () => {
             <div className='flex items-center'>
               <label htmlFor="problem-solving" className='w-3/12 text-sm'>Problem-Solving</label>
               <div className='grow bg-gray-800 rounded-full h-2.5'>
-                <div className='bg-gradient-to-r from-purple-400 to-pink-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-9/12'>
+                <div className='bg-gradient-to-r from-purple-400 to-pink-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-6/12'>
                 </div>
               </div>
             </div>
@@ -173,7 +173,7 @@ const Skills = () => {
             <div className='flex items-center'>
               <label htmlFor="leadership" className='w-3/12 text-sm'>Leadership</label>
               <div className='grow bg-gray-800 rounded-full h-2.5'>
-                <div className='bg-gradient-to-r from-purple-400 to-pink-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-7/12'>
+                <div className='bg-gradient-to-r from-purple-400 to-pink-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-8/12'>
                 </div>
               </div>
             </div>
@@ -185,7 +185,7 @@ const Skills = () => {
             <div className='flex items-center'>
               <label htmlFor="adaptability" className='w-3/12 text-sm'>Adaptability</label>
               <div className='grow bg-gray-800 rounded-full h-2.5'>
-                <div className='bg-gradient-to-r from-teal-400 to-cyan-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-8/12'>
+                <div className='bg-gradient-to-r from-teal-400 to-cyan-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-9/12'>
                 </div>
               </div>
             </div>
@@ -201,7 +201,7 @@ const Skills = () => {
             <div className='flex items-center'>
               <label htmlFor="learning" className='w-3/12 text-sm'>Quick Learning</label>
               <div className='grow bg-gray-800 rounded-full h-2.5'>
-                <div className='bg-gradient-to-r from-teal-400 to-cyan-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-9/12'>
+                <div className='bg-gradient-to-r from-teal-400 to-cyan-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-8/12'>
                 </div>
               </div>
             </div>
@@ -229,7 +229,7 @@ const Skills = () => {
             <div className='flex items-center'>
               <label htmlFor="critical-thinking" className='w-3/12 text-sm'>Critical Thinking</label>
               <div className='grow bg-gray-800 rounded-full h-2.5'>
-                <div className='bg-gradient-to-r from-orange-400 to-red-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-7/12'>
+                <div className='bg-gradient-to-r from-orange-400 to-red-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-6/12'>
                 </div>
               </div>
             </div>

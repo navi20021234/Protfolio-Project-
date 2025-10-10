@@ -3,6 +3,7 @@ import bookMSImage from "../assets/book-ms.jpg";
 import citybinMSImage from "../assets/citybin-ms.jpg";
 import farmMSImage from "../assets/farm-ms.png";
 import deliverySystemImage from "../assets/deliverysystem.png";
+import harvestMSImage from "../assets/harvest-ms.png";
 
 const projects = [
     {
@@ -35,6 +36,14 @@ const projects = [
         technologies: "MERN Stack",
         image: deliverySystemImage,
        github: "https://github.com/navi20021234/BeautyProductDeliveryWeb",
+    },
+
+     {
+        id: 5,
+        name: "Harvest Management System (Group Project)",
+        technologies: "HTML, CSS, JavaScript, Tailwind CSS, MySQL",
+        image: harvestMSImage,
+       github: "https://github.com/Yasithb/Harvest-Xpert",
     },
 
 ];
