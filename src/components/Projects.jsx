@@ -4,6 +4,8 @@ import citybinMSImage from "../assets/citybin-ms.jpg";
 import farmMSImage from "../assets/farm-ms.png";
 import deliverySystemImage from "../assets/deliverysystem.png";
 import harvestMSImage from "../assets/harvest-ms.png";
+import TAutomation from "../assets/TAutomation.png";
+import Guru99Test from "../assets/Guru99Test.png";
 
 const projects = [
     {
@@ -45,6 +47,25 @@ const projects = [
         image: harvestMSImage,
        github: "https://github.com/Yasithb/Harvest-Xpert",
     },
+
+    {
+        id: 6,
+        name: "Automated Web Testing (Individual Project)",
+        technologies: "Java, Selenium WebDriver, TestNG, Maven, Git, IntelliJ IDEA, Chrome",
+        image: TAutomation,
+       github: "https://github.com/navi20021234/AutomationTesting",
+    },
+
+    {
+        id: 7,
+        name: "Automated Web Testing - Guru99 Demo Site (Individual Project)",
+        technologies: "Java, Selenium WebDriver, TestNG, Maven, Git, IntelliJ IDEA, Chrome",
+        image: Guru99Test,
+       github: "https://github.com/navi20021234/Guru99-Demo-site-Automation",
+    },
+
+
+
 
 ];
 
